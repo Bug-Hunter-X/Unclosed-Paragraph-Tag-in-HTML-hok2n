@@ -1,0 +1,1 @@
+This repository demonstrates a common yet easily missed error in HTML: an unclosed paragraph tag.  Unclosed tags can cause rendering issues and unexpected behavior in browsers. The solution shows how to correctly close the paragraph tag to resolve the problem.
